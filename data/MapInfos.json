@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":825.3333333333334,"scrollY":470},
+{"id":2,"expanded":false,"name":"山村","order":2,"parentId":1,"scrollX":825.3333333333334,"scrollY":730,"quick":false},
+{"id":3,"expanded":false,"name":"市场","order":3,"parentId":1,"scrollX":825.3333333333334,"scrollY":470,"quick":false}
+]
